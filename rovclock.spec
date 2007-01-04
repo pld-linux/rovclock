@@ -2,12 +2,13 @@ Summary:	Radeon overclocking utility
 Summary(pl):	Narzêdzie do zmiany czêstotliwo¶ci pracy chipsetów Radeon
 Name:		rovclock
 Version:	0.6e
-Release:	1
+Release:	2
 License:	GPL v2
 Group:		Applications
 Source0:	http://www.hasw.net/linux/%{name}-%{version}.tar.bz2
 # Source0-md5:	bebd45ee75fd95c5e52bdad17076988d
 URL:		http://www.hasw.net/linux/
+ExclusiveArch:	%{ix86} %{x8664} alpha
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
