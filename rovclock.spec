@@ -1,5 +1,5 @@
 Summary:	Radeon overclocking utility
-Summary(pl):	Narzêdzie do zmiany czêstotliwo¶ci pracy chipsetów Radeon
+Summary(pl.UTF-8):   NarzÄ™dzie do zmiany czÄ™stotliwoÅ›ci pracy chipsetÃ³w Radeon
 Name:		rovclock
 Version:	0.6e
 Release:	2
@@ -14,8 +14,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 Radeon overclocking utility.
 
-%description -l pl
-Narzêdzie do zmiany czêstotliwo¶ci pracy chipsetów Radeon.
+%description -l pl.UTF-8
+NarzÄ™dzie do zmiany czÄ™stotliwoÅ›ci pracy chipsetÃ³w Radeon.
 
 %prep
 %setup -q
