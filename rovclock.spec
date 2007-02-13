@@ -1,5 +1,5 @@
 Summary:	Radeon overclocking utility
-Summary(pl.UTF-8):   Narzędzie do zmiany częstotliwości pracy chipsetów Radeon
+Summary(pl.UTF-8):	Narzędzie do zmiany częstotliwości pracy chipsetów Radeon
 Name:		rovclock
 Version:	0.6e
 Release:	2
